@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<info>
+    <id>richdocumentscode</id>
+    <name>Collabora Online - Built-in CODE Server</name>
+    <summary>Built-in Collabora Online Development Edition (CODE) server for local testing and non-production use</summary>
+    <description><![CDATA[This app has to be installed and used together with the **[Collabora Online](https://marketplace.owncloud.com/apps/richdocuments)** app.
+
+Collabora Online is a powerful LibreOffice-based online office suite with collaborative editing, which supports all major documents, spreadsheet and presentation file formats and works together with all modern browsers.
+
+This app provides a built-in server with all of the document editing features of Collabora Online. Easy to install, for personal use or for small teams. A bit slower than a standalone server and without the advanced scalability features.]]></description>
+    <version>4.2.405</version>
+    <licence>apache</licence>
+    <author>Collabora Productivity</author>
+    <namespace>RichDocumentsCODE</namespace>
+    <documentation>
+        <user>https://collaboraoffice.com/</user>
+    </documentation>
+    <category>office</category>
+    <category>integration</category>
+    <website>https://collaboraoffice.com/</website>
+    <dependencies>
+        <owncloud min-version="10.4" max-version="10"/>
+    </dependencies>
+</info>
